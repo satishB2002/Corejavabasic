@@ -1,0 +1,1 @@
+package MixArraypattern_20_22;
